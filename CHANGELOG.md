@@ -6,4 +6,12 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
-- Initial release
+N/A
+
+## [1.0.0] - 2020-07-10
+
+### Added
+
+-   Initial release of Nite-Lite containing the necessary base functionality
+-   settings for setting themes
+-   toggle button
